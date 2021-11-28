@@ -1,0 +1,136 @@
+
+.body{
+    margin-left:60px;
+    background-color:#f2f2f2 ;
+   
+} 
+@media(max-width:700px){
+    .table{
+        text-align: center;
+        display: block;
+    }
+}
+.body h2{
+    margin-bottom: 0px;
+}
+    .table{
+        
+        padding:10px ;
+    margin:50px;
+    background-color:  rgba(180, 180, 180, 0.466);
+    border-radius: 30px;
+box-shadow: 
+0 0 0 5px #ee6352,
+0 0 0 10px #d45379, 
+0 0 0 15px #a4558f,
+0 0 0 20px #6d588e,
+0 0 0 25px #405378;
+}
+    .table a{
+        color: black;
+        text-decoration: none;
+    }
+    .table :active  {
+        color: indianred;
+    }
+    .table :active b{
+        color: black;
+    }
+        
+    
+
+    .table tr{
+    border: 30%;
+    border-color: black;
+}
+.image{
+   
+    top: 40px;
+    right: 20px;
+    box-shadow: 4px 4px 14px rgba(0,0,0,25);
+    border-radius: 30px;
+    
+}
+
+.text{
+    margin-top: 40px;
+}
+
+.bird{
+    display: flex;
+    margin-bottom: 20px;
+   padding-top: 30px;
+}
+.bird h2{
+    margin-left: 30px;
+}  
+
+/*Position*/
+.position{
+
+}
+.box{
+    width: 300px;
+    height: 800px;
+    float: right;
+    background: rgba(172, 172, 172, 0.452);
+    border-radius: 20px;
+    box-shadow: 0 0 0 2px black;
+    overflow: hidden;
+    margin-top: 20px;
+
+}
+.box h4{
+    text-align: center;
+    padding-bottom: 3px;
+    margin: 10px;
+    background-color: #ee6352 ;
+    border-radius: 20px;
+    color: rgb(238, 238, 238);
+}
+
+.gorobchyk{
+ display: flex;
+    
+    width: 200px;
+margin-top: 15px;
+margin-left: 50px;
+border-radius: 10%;
+}
+
+.white{
+    color: rgb(238, 238, 238);    
+}
+.box p{
+    text-align: center;
+    margin-top: 0px;
+    margin-bottom: 2px;
+}
+.router a{
+color: black;
+margin-left: 5px;
+}
+
+.text-1{
+    
+    margin-top: 70px;
+}
+
+.white a{
+    color: rgb(238, 238, 238);
+}
+.black a{
+    color: black;
+   
+}
+.black :hover a{
+    color: gray;
+}
+.black :active a{
+    color:white
+}
+
+.router-2 a{
+
+    text-decoration: none;
+}
